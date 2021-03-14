@@ -22,7 +22,7 @@
         }
     },
     "require": {
-        "symfony/serializer": "^3.4|^4.1"
+        "symfony/serializer": "^3.4|^4.1|5.*"
     },
     "require-dev": {
         "symfony/dependency-injection": "^4.0",
